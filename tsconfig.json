@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2020"],
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "noImplicitAny": true,
+        "resolveJsonModule": true,
+        "declaration": true,
+        "declarationDir": "./dec"
+    }
+}
