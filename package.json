@@ -1,6 +1,6 @@
 {
   "name": "xc2-blade-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Xenoblade 2 Merc Missions algorithm to efficiently compose a Blade squad",
   "main": "dist/index.js",
   "keywords": ["xenoblade", "search"],

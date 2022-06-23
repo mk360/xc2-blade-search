@@ -54,3 +54,4 @@ The package contains the following interfaces:
 
 ## Changelog
 - v1.0.0: initial version.
+- v1.0.1: fix NPM publishing error, package can be downloaded over on [npmjs](https://www.npmjs.com/package/xc2-blade-search).
